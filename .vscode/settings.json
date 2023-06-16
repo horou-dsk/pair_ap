@@ -1,0 +1,8 @@
+{
+  "files.associations": {
+    "pair-internal.h": "c",
+    "sodium.h": "c",
+    "event.h": "c"
+  },
+  "C_Cpp.default.defines": ["CONFIG_OPENSSL"]
+}

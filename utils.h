@@ -1,0 +1,1 @@
+void print_bytes(const unsigned char *bytes, size_t length);
